@@ -1,8 +1,6 @@
 # NOTAS DO LIVRO
 
 ## INTRODUÇÃO
-
-## INTRODUÇÃO
 + Construir um site é como construir uma cidade, você espera receber pessoas e trocar informações, pagamentos ou objetos, então devemos prestar atenção em alguns detalhes;
 - [Transporte](As pessoas estão entrando no seu site através de qual navegador, e como o seu site esta em relação a eles.);
 - [Responsividade](As pessoas acessam seu site através de varias plataformas, como seu site reage aos diferentes dispositivos.);
